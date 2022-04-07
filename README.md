@@ -1,1 +1,1 @@
-This is still a work in progress. 
+The images are currently not working with github pages.
